@@ -1,2 +1,2 @@
 # teat1
-this is test repo 
+this is test repositry 
